@@ -1,0 +1,12 @@
+*.test
+/obj/*
+/latex/*
+/html/*
+/bin/*
+*.gch
+*.cbp
+*.depend
+*.layout
+*.html
+*.css
+*.db
